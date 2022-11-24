@@ -1,0 +1,15 @@
+C:\C#\Treino\bin\Debug\net6.0\Treino.exe
+C:\C#\Treino\bin\Debug\net6.0\Treino.deps.json
+C:\C#\Treino\bin\Debug\net6.0\Treino.runtimeconfig.json
+C:\C#\Treino\bin\Debug\net6.0\Treino.dll
+C:\C#\Treino\bin\Debug\net6.0\Treino.pdb
+C:\C#\Treino\obj\Debug\net6.0\Treino.csproj.AssemblyReference.cache
+C:\C#\Treino\obj\Debug\net6.0\Treino.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Treino\obj\Debug\net6.0\Treino.AssemblyInfoInputs.cache
+C:\C#\Treino\obj\Debug\net6.0\Treino.AssemblyInfo.cs
+C:\C#\Treino\obj\Debug\net6.0\Treino.csproj.CoreCompileInputs.cache
+C:\C#\Treino\obj\Debug\net6.0\Treino.dll
+C:\C#\Treino\obj\Debug\net6.0\refint\Treino.dll
+C:\C#\Treino\obj\Debug\net6.0\Treino.pdb
+C:\C#\Treino\obj\Debug\net6.0\Treino.genruntimeconfig.cache
+C:\C#\Treino\obj\Debug\net6.0\ref\Treino.dll
